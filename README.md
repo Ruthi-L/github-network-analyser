@@ -10,3 +10,6 @@ A graph-based analysis tool for modeling and visualizing mutual follower relatio
 * Python
 * Pyvis / NetworkX
 * GitHub API
+
+
+This implementation represents the GitHub social ecosystem as an Adjacency List using networkx. The project focuses on Breadth-First traversal concepts to map user connectivity and visualize sub-graph clusters
